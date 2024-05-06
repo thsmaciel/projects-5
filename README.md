@@ -1,6 +1,7 @@
 # projects-5
 Triggers
 
--- Exemplo 1 ( Modelo lógico )
+-- Exemplo 2 ( Modelo lógico )
 
-![image](https://github.com/thsmaciel/projects-5/assets/166454421/8664c8c5-aff2-4a3d-bdda-f8738598a734)
+![image](https://github.com/thsmaciel/projects-5/assets/166454421/9e5ea96b-c7d9-4714-b891-b7a8ae1cc43c)
+
